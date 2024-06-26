@@ -2,6 +2,11 @@
 
 Aqui podran ver un gran análisis con Python y un tablero de Power BI
 
+# Dashboard
+
+[Ver el dashboard](https://app.powerbi.com/reportEmbed?reportId=f839f68e-9583-4f74-8efa-92c8d843608f&autoAuth=true&ctid=1ec1447b-9394-4d35-9cab-7417ed856e7f)
+
+
 El proyecto de expansión estratégica de Biogenesys en Latinoamérica, liderado por Ma. Florencia Yofre, se destaca por su enfoque meticuloso en la investigación y vacunación del COVID-19. A continuación, se presenta un resumen detallado del informe:
 
 Información General del Proyecto
