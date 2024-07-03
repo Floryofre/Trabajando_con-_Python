@@ -28,6 +28,4 @@
 - **Ubicaciones Óptimas:** Brasil, México y Argentina fueron identificados como los países más adecuados para la expansión.
 - **Infraestructura Sanitaria:** Recomendaciones para mejorar la capacidad de respuesta en Colombia y Perú.
 
-**Reflexión Personal:**
-Ma. Florencia Yofre destacó la adquisición de habilidades en análisis de datos y el uso de herramientas avanzadas, reflejando su compromiso con la mejora continua y la eficiencia en el manejo de grandes volúmenes de datos.
 
